@@ -33,6 +33,6 @@ fun Greeting(name: String) {
 @Composable
 fun DefaultPreview() {
     HelloWorldTheme {
-        Greeting("World")
+        Greeting("AS git test")
     }
 }
